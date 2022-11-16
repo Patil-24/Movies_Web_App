@@ -2,7 +2,9 @@
   <h1>Movies Web APP</h1>
   
 </div>
+heroku link (live) : https://ipmovies.herokuapp.com/
 
+github repo : https://github.com/Patil-24/Movies_Web_App
 
 ## About-
 This is web based movie search applications ,This web application is having following features.
