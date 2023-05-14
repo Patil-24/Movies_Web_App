@@ -4,7 +4,7 @@
 </div>
 ## Links...
 
-- heroku link (live) : https://ipmovies.herokuapp.com/
+- Render link (live) : https://movies-web-app.onrender.com/
 
 - github repo : https://github.com/Patil-24/Movies_Web_App
 
